@@ -18,7 +18,7 @@ K4-L3B-<HoVaTen>-<MSSV>-AIEvaluation
 
 **Ví dụ:**
 ```text
-K4-L3B-NguyenVanAn-L3A202600280-AIEvaluation
+K4-L3B-NguyenVanAn-2A202600280-AIEvaluation
 ```
 
 > ⚠️ **Lưu ý:** Đặt sai tên repository sẽ bị trừ **5 điểm** theo quy định trong [RUBRIC.md](RUBRIC.md).
